@@ -17,13 +17,13 @@ function createSkills() {
 
         for (let i = 0; i < value; i++) {
             const parallelogram = document.createElement('div');
-            parallelogram.classList.add('parallelogram-completed');
+            parallelogram.classList.add('parallelogram', 'parallelogram-purple');
             section.appendChild(parallelogram);
         }
 
         for (let i = value; i < 10; i++) {
             const parallelogram = document.createElement('div');
-            parallelogram.classList.add('parallelogram')
+            parallelogram.classList.add('parallelogram', 'parallelogram-blue')
             section.appendChild(parallelogram);
         }
     }
