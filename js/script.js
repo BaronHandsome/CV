@@ -6,6 +6,7 @@ const allSkills = {
     ['less-skill']: 8,
     ['bt-skill']: 4,
     ['js-skill']: 5,
+    ['ts-skill']: 4,
     ['react-skill']: 4,
     ['git-skill']: 4
 };
