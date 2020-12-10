@@ -3,10 +3,10 @@ const allSkills = {
     ['html-skill']: 9,
     ['css-skill']: 9,
     ['scss-skill']: 8,
-    ['less-skill']: 8,
-    ['bt-skill']: 4,
+    ['less-skill']: 4,
+    ['bt-skill']: 2,
     ['js-skill']: 5,
-    ['ts-skill']: 4,
+    ['ts-skill']: 1,
     ['react-skill']: 4,
     ['git-skill']: 4
 };
