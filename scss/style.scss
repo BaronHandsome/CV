@@ -83,7 +83,7 @@ ul {
     margin-right: 0.5rem;
 }
 
-.summary, .skills, .other-skills {
+.summary, .my-works, .skills, .other-skills {
     margin-left: 80px;
 }
 
@@ -134,6 +134,17 @@ a {
     border:0px none;
 }
 
+
+.my-works {
+    ul {
+        a{
+            transition: 350ms;
+        }
+        a:hover {
+            color: #b44815;
+        }
+    }
+}
 
 
 
