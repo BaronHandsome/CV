@@ -81,6 +81,7 @@ ul {
     color: white;
     text-align: center;
     margin-right: 0.5rem;
+    margin-top: 5px;
 }
 
 .summary, .my-works, .skills, .other-skills {
@@ -88,13 +89,7 @@ ul {
 }
 
 a {
-    color: black;
-    text-decoration: none;
-}
-
-.courses-link {
-    color: black;
-    text-decoration-line: underline;
+    color:black;
 }
 
 .contacts-block {
@@ -112,10 +107,6 @@ a {
     -o-transform: skew(20deg);
     margin-left: 10px;
     margin-top: 10px;
-}
-
-strong {
-    margin-right: 10px;
 }
 
 .parallelogram-blue {
@@ -138,16 +129,11 @@ strong {
     border:0px none;
 }
 
-
-.my-works {
-    ul {
-        a{
-            transition: 350ms;
-        }
-        a:hover {
-            color: #b44815;
-        }
-    }
+a{
+    transition: 350ms;
+}
+a:hover {
+    color: #b44815;
 }
 
 
